@@ -53401,7 +53401,7 @@ A.y7.prototype={
 O(a,b){var s,r=null,q=b.U(t.w).f,p=q.a.b/2.5,o=q.c*20,n=A.eQ(r,A.Xn("Hello, I'm Robert Eriksson a developer with almost 10 years of experience work with complex systems ranging from machine learning, self driving cars to optronic systems design. I'm comfortable with agile processes and with a broad spectra of languages and tools.I currently live in Varberg, Sweden",A.ly(r,r,B.aX,r,r,r,r,r,r,r,r,o,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r,r,r,r,r,p)
 o=A.eQ(r,A.Xn("Programming Skills:\n C++, C, Matlab/Simulink, Python \n\nOther Skills:\nEmbedded Software, Git, Gerrit, Gitlab, Docker, Scrum, Agile development, ISO26262, ASPICE, Autosar",A.ly(r,r,B.aX,r,r,r,r,r,r,r,r,o,r,r,r,r,!0,r,r,r,r,r,r,r,r)),r,r,r,r,r,p)
 s=A.bJ(0,0,2)
-return A.Uu(r,B.bn,A.kr(A.ME(A.a([new A.d3(new A.b0(0,20,0,20),r,r),n,new A.d3(new A.b0(0,20,0,20),r,r),o,new A.d3(new A.b0(0,20,0,20),r,r),new A.pV(A.eQ(r,new A.d3(new A.b0(0,50,0,50),r,r),r,new A.ek(r,A.a7Q(new A.mu(B.bn,B.jP),B.jS,new A.mk("Robert.png")),r,r,r,r,B.aK),p,r,r,p),1,B.a4,s,r,r)],t.E),B.c8),r,r))}}
+return A.Uu(r,B.bn,A.kr(A.ME(A.a([new A.d3(new A.b0(0,20,0,20),r,r),n,new A.d3(new A.b0(0,20,0,20),r,r),o,new A.d3(new A.b0(0,20,0,20),r,r),new A.pV(A.eQ(r,new A.d3(new A.b0(0,50,0,50),r,r),r,new A.ek(r,A.a7Q(new A.mu(B.bn,B.jP),B.jS,new A.mk("assets/Robert.png")),r,r,r,r,B.aK),p,r,r,p),1,B.a4,s,r,r)],t.E),B.c8),r,r))}}
 A.qz.prototype={
 au(){return new A.zn(B.l)}}
 A.zn.prototype={
@@ -53472,7 +53472,7 @@ A.rk.prototype={
 au(){return new A.Ay(B.l)}}
 A.Ay.prototype={
 O(a,b){var s=null,r=b.U(t.w).f,q=r.a.b/2.5,p=t.E
-return A.Uu(s,B.eQ,A.eQ(s,A.kr(A.ME(A.a([A.eQ(s,A.ME(A.a([new A.d3(new A.b0(50,0,50,0),s,s),A.eQ(s,new A.d3(new A.b0(0,50,0,50),s,s),s,new A.ek(s,A.a7Q(new A.mu(B.aX,B.jP),B.jS,new A.mk("Logo_v1.png")),s,s,s,s,B.aK),q,s,s,q),A.eQ(s,A.Xn("Eurisko Development is a Software Engineering company",A.ly(s,s,B.bn,s,s,s,s,s,s,s,s,r.c*40,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s,s,q,s,s,q)],p),B.c8),s,s,s,s,s,s)],p),B.c8),s,s),B.aX,s,s,s,s,s))}}
+return A.Uu(s,B.eQ,A.eQ(s,A.kr(A.ME(A.a([A.eQ(s,A.ME(A.a([new A.d3(new A.b0(50,0,50,0),s,s),A.eQ(s,new A.d3(new A.b0(0,50,0,50),s,s),s,new A.ek(s,A.a7Q(new A.mu(B.aX,B.jP),B.jS,new A.mk("assets/Logo_v1.png")),s,s,s,s,B.aK),q,s,s,q),A.eQ(s,A.Xn("Eurisko Development is a Software Engineering company",A.ly(s,s,B.bn,s,s,s,s,s,s,s,s,r.c*40,s,s,s,s,!0,s,s,s,s,s,s,s,s)),s,s,q,s,s,q)],p),B.c8),s,s,s,s,s,s)],p),B.c8),s,s),B.aX,s,s,s,s,s))}}
 A.SO.prototype={}
 A.iA.prototype={
 gl(a){return this.b},
